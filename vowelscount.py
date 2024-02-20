@@ -3,7 +3,6 @@ count_e = 0
 count_i = 0
 count_o = 0
 count_u = 0
-total_vowels = 0
 input_string='Guvi geeks Network private limited'
 string = input_string.lower()
 for char in string:
